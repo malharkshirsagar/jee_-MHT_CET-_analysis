@@ -1,0 +1,10 @@
+# Ignore large source PDFs
+2026.pdf
+2026A.pdf
+
+# Ignore huge intermediate text dumps
+*.txt
+
+# Ignore OS files
+Thumbs.db
+Desktop.ini
